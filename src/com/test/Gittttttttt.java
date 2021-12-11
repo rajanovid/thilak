@@ -8,9 +8,9 @@ public class Gittttttttt {
 		int c=a+b;
 			System.out.println(c);
 			
-			int d=10;
-			int e=10;
-			int f=d+e;
-			System.out.println(f);
+			int g=10;
+			int h=10;
+			int i=g+h;
+			System.out.println(i);
 		}
 }
